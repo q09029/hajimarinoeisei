@@ -1,0 +1,188 @@
+Plot Report
+-----------
+
+Report Written:     Tuesday, January 02, 2018
+Design Path:        C:\Users\q09029\Desktop\2017\hajimarino\hajimarino_menduke.pcb
+Design Title:       
+Created:            2018/01/02 11:30:00
+Last Saved:         2018/01/02 11:36:01
+Editing Time:       7 min
+Units:              mm (precision 3)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in inches.
+    No zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\q09029\Desktop\2017\hajimarino\hajimarino_menduke.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\q09029\Desktop\2017\hajimarino\hajimarino_menduke - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D10    Round 12.00
+    D11    Round 10.00
+    D13    Round 78.74
+    D20    Round 40.00
+    D21    Round 19.69
+    D75    Round 7.87
+    D77    Rectangle 39.37 X 41.34  Rotation 90
+    D78    Square 78.74
+    D79    Rectangle 59.06 X 39.37  Rotation 90
+    D80    Round 86.61
+    D81    Rectangle 35.43 X 147.64  Rotation 90
+    D82    Rectangle 51.18 X 61.02  Rotation 90
+    D83    Round 31.50
+    D84    Round 39.37
+
+Gerber Output
+=============
+
+C:\Users\q09029\Desktop\2017\hajimarino\hajimarino_menduke - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D23    Round 84.74
+    D91    Rectangle 45.37 X 47.34  Rotation 90
+    D92    Square 84.74
+    D93    Rectangle 65.06 X 45.37  Rotation 90
+    D94    Round 92.61
+    D95    Rectangle 41.43 X 153.64  Rotation 90
+    D96    Rectangle 57.18 X 67.02  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\q09029\Desktop\2017\hajimarino\hajimarino_menduke - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 10.00
+    D74    Round 5.00
+
+Gerber Output
+=============
+
+C:\Users\q09029\Desktop\2017\hajimarino\hajimarino_menduke - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D10    Round 12.00
+    D11    Round 10.00
+    D13    Round 78.74
+    D20    Round 40.00
+    D21    Round 19.69
+    D75    Round 7.87
+    D78    Square 78.74
+    D79    Rectangle 59.06 X 39.37  Rotation 90
+    D80    Round 86.61
+    D83    Round 31.50
+    D84    Round 39.37
+    D85    Rectangle 23.62 X 42.32
+    D86    Rectangle 37.40 X 43.31  Rotation 90
+    D87    Rectangle 98.43 X 118.11  Rotation 90
+    D88    Rectangle 37.40 X 43.31
+    D89    Rectangle 64.96 X 66.93  Rotation 90
+    D90    Round 25.59
+
+Gerber Output
+=============
+
+C:\Users\q09029\Desktop\2017\hajimarino\hajimarino_menduke - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    ------------------------------------------------
+    D23    Round 84.74
+    D92    Square 84.74
+    D93    Rectangle 65.06 X 45.37  Rotation 90
+    D94    Round 92.61
+    D99    Rectangle 29.62 X 48.32
+    D100   Rectangle 43.40 X 49.31  Rotation 90
+    D101   Rectangle 104.43 X 124.11  Rotation 90
+    D102   Rectangle 43.40 X 49.31
+    D103   Rectangle 70.96 X 72.93  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\q09029\Desktop\2017\hajimarino\hajimarino_menduke - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 12.00
+    D74    Round 5.00
+
+NC Drill Output
+===============
+
+C:\Users\q09029\Desktop\2017\hajimarino\hajimarino_menduke - Drill Data - [Through Hole].drl
+
+    Output:
+    -----------------------------
+    Plated Round Drill Holes
+    Unplated Round Drill Holes
+    Plated Slots
+    Unplated Slots
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.01181 in 448   X
+    T002  000.02400 in 40    B
+    T003  000.04724 in 160   L
+    T004  000.05906 in 32    W
+    ------------------------------------
+    Total              680
+    ------------------------------------
+
+
+End Of Report.

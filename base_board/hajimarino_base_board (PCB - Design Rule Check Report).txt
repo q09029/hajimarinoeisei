@@ -1,0 +1,264 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Tuesday, January 02, 2018
+Project Path:       C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board.prj
+Design Path:        C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board.pcb
+Design Title:       
+Created:            2018/01/02 14:22:47
+Last Saved:         2018/01/02 15:30:29
+Editing Time:       68 min
+Units:              mm (precision 3)
+
+
+Results
+=======
+
+Pad to Pad Error (P-P) between (36.750 -73.255) and (36.900 -73.255) on Layer "[Top]".
+    Error between Component Pad IC1.1 and Component Pad IC1.2, Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (37.400 -73.255) and (37.550 -73.255) on Layer "[Top]".
+    Error between Component Pad IC1.2 and Component Pad IC1.3, Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (38.050 -73.255) and (38.200 -73.255) on Layer "[Top]".
+    Error between Component Pad IC1.3 and Component Pad IC1.4, Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (38.700 -73.255) and (38.850 -73.255) on Layer "[Top]".
+    Error between Component Pad IC1.4 and Component Pad IC1.5, Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (39.350 -73.255) and (39.500 -73.255) on Layer "[Top]".
+    Error between Component Pad IC1.5 and Component Pad IC1.6, Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (40.000 -73.255) and (40.150 -73.255) on Layer "[Top]".
+    Error between Component Pad IC1.6 and Component Pad IC1.7, Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (40.650 -73.255) and (40.800 -73.255) on Layer "[Top]".
+    Error between Component Pad IC1.7 and Component Pad IC1.8, Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (41.300 -73.255) and (41.450 -73.255) on Layer "[Top]".
+    Error between Component Pad IC1.8 and Component Pad IC1.9 (Net '3.3V'), Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (41.950 -73.255) and (42.100 -73.255) on Layer "[Top]".
+    Error between Component Pad IC1.9 (Net '3.3V') and Component Pad IC1.10 (Net 'GND'), Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (42.600 -73.255) and (42.750 -73.255) on Layer "[Top]".
+    Error between Component Pad IC1.10 (Net 'GND') and Component Pad IC1.11, Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (43.250 -73.255) and (43.400 -73.255) on Layer "[Top]".
+    Error between Component Pad IC1.11 and Component Pad IC1.12 (Net 'SCL'), Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (43.900 -73.255) and (44.050 -73.255) on Layer "[Top]".
+    Error between Component Pad IC1.12 (Net 'SCL') and Component Pad IC1.13 (Net 'SDA'), Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (44.550 -73.255) and (44.700 -73.255) on Layer "[Top]".
+    Error between Component Pad IC1.13 (Net 'SDA') and Component Pad IC1.14, Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (44.700 -63.055) and (44.550 -63.055) on Layer "[Top]".
+    Error between Component Pad IC1.15 (Net 'A0') and Component Pad IC1.16 (Net 'A1'), Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (44.050 -63.055) and (43.900 -63.055) on Layer "[Top]".
+    Error between Component Pad IC1.16 (Net 'A1') and Component Pad IC1.17 (Net 'A2'), Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (43.400 -63.055) and (43.250 -63.055) on Layer "[Top]".
+    Error between Component Pad IC1.17 (Net 'A2') and Component Pad IC1.18 (Net 'RST'), Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (42.750 -63.055) and (42.600 -63.055) on Layer "[Top]".
+    Error between Component Pad IC1.18 (Net 'RST') and Component Pad IC1.19, Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (42.100 -63.055) and (41.950 -63.055) on Layer "[Top]".
+    Error between Component Pad IC1.19 and Component Pad IC1.20, Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (41.450 -63.055) and (41.300 -63.055) on Layer "[Top]".
+    Error between Component Pad IC1.20 and Component Pad IC1.21 (Net 'GPA0'), Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (40.800 -63.055) and (40.650 -63.055) on Layer "[Top]".
+    Error between Component Pad IC1.21 (Net 'GPA0') and Component Pad IC1.22 (Net 'GPA1'), Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (40.150 -63.055) and (40.000 -63.055) on Layer "[Top]".
+    Error between Component Pad IC1.22 (Net 'GPA1') and Component Pad IC1.23 (Net 'GPA2'), Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (39.500 -63.055) and (39.350 -63.055) on Layer "[Top]".
+    Error between Component Pad IC1.23 (Net 'GPA2') and Component Pad IC1.24 (Net 'GPA3'), Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (38.850 -63.055) and (38.700 -63.055) on Layer "[Top]".
+    Error between Component Pad IC1.24 (Net 'GPA3') and Component Pad IC1.25 (Net 'GPA4'), Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (38.200 -63.055) and (38.050 -63.055) on Layer "[Top]".
+    Error between Component Pad IC1.25 (Net 'GPA4') and Component Pad IC1.26 (Net 'GPA5'), Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (37.550 -63.055) and (37.400 -63.055) on Layer "[Top]".
+    Error between Component Pad IC1.26 (Net 'GPA5') and Component Pad IC1.27 (Net 'GPA6'), Gap is 0.150 needs to be 0.160.
+Pad to Pad Error (P-P) between (36.900 -63.055) and (36.750 -63.055) on Layer "[Top]".
+    Error between Component Pad IC1.27 (Net 'GPA6') and Component Pad IC1.28 (Net 'GPA7'), Gap is 0.150 needs to be 0.160.
+Pad to Board Error (P-B) between (43.000 -83.600) and (43.000 -85.000) on Layer "[All]".
+    Error between Component Pad CONN2.1 (Net 'GND') and Board, Gap is 1.337 needs to be 2.540.
+Pad to Board Error (P-B) between (45.500 -83.600) and (45.500 -85.000) on Layer "[All]".
+    Error between Component Pad CONN2.2 (Net 'RST') and Board, Gap is 1.337 needs to be 2.540.
+Pad to Board Error (P-B) between (48.000 -83.600) and (48.000 -85.000) on Layer "[All]".
+    Error between Component Pad CONN2.3 (Net 'SCL') and Board, Gap is 1.337 needs to be 2.540.
+Pad to Board Error (P-B) between (50.500 -83.600) and (50.500 -85.000) on Layer "[All]".
+    Error between Component Pad CONN2.4 (Net 'SDA') and Board, Gap is 1.337 needs to be 2.540.
+Pad to Board Error (P-B) between (53.000 -83.600) and (53.000 -85.000) on Layer "[All]".
+    Error between Component Pad CONN2.5 (Net '3.3V') and Board, Gap is 1.337 needs to be 2.540.
+Pad to Board error (P-B) at (8.000 -5.500) on layer "[All]".
+    Error between Component Pad SAT1.1 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (27.500 -7.000) on layer "[All]".
+    Error between Component Pad SAT1.2 (Net 'GPA0') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (7.500 -27.500) on layer "[All]".
+    Error between Component Pad SAT1.3 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (7.500 -29.000) and (7.500 -31.500) on Layer "[All]".
+    Error between Component Pad SAT1.3 (Net 'GND') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board error (P-B) at (27.000 -27.500) on layer "[All]".
+    Error between Component Pad SAT1.4 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (27.500 -29.000) and (27.500 -31.500) on Layer "[All]".
+    Error between Component Pad SAT1.4 (Net 'GND') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board Error (P-B) between (8.000 -30.000) and (8.000 -27.500) on Layer "[All]".
+    Error between Component Pad SAT2.1 (Net 'GND') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board error (P-B) at (8.000 -31.500) on layer "[All]".
+    Error between Component Pad SAT2.1 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (27.500 -30.000) and (27.500 -27.500) on Layer "[All]".
+    Error between Component Pad SAT2.2 (Net 'GPA1') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board error (P-B) at (27.500 -33.000) on layer "[All]".
+    Error between Component Pad SAT2.2 (Net 'GPA1') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (7.500 -53.500) on layer "[All]".
+    Error between Component Pad SAT2.3 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (7.500 -55.000) and (7.500 -57.500) on Layer "[All]".
+    Error between Component Pad SAT2.3 (Net 'GND') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board error (P-B) at (27.000 -53.500) on layer "[All]".
+    Error between Component Pad SAT2.4 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (27.500 -55.000) and (27.500 -57.500) on Layer "[All]".
+    Error between Component Pad SAT2.4 (Net 'GND') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board Error (P-B) between (8.000 -56.000) and (8.000 -53.500) on Layer "[All]".
+    Error between Component Pad SAT3.1 (Net 'GND') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board error (P-B) at (8.000 -57.500) on layer "[All]".
+    Error between Component Pad SAT3.1 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (27.500 -56.000) and (27.500 -53.500) on Layer "[All]".
+    Error between Component Pad SAT3.2 (Net 'GPA2') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board error (P-B) at (27.500 -59.000) on layer "[All]".
+    Error between Component Pad SAT3.2 (Net 'GPA2') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (7.500 -79.500) on layer "[All]".
+    Error between Component Pad SAT3.3 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (27.000 -79.500) on layer "[All]".
+    Error between Component Pad SAT3.4 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (34.000 -5.500) on layer "[All]".
+    Error between Component Pad SAT4.1 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (53.500 -7.000) on layer "[All]".
+    Error between Component Pad SAT4.2 (Net 'GPA3') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (33.500 -27.500) on layer "[All]".
+    Error between Component Pad SAT4.3 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (33.500 -29.000) and (33.500 -31.500) on Layer "[All]".
+    Error between Component Pad SAT4.3 (Net 'GND') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board error (P-B) at (53.000 -27.500) on layer "[All]".
+    Error between Component Pad SAT4.4 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (53.500 -29.000) and (53.500 -31.500) on Layer "[All]".
+    Error between Component Pad SAT4.4 (Net 'GND') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board Error (P-B) between (34.000 -30.000) and (34.000 -27.500) on Layer "[All]".
+    Error between Component Pad SAT5.1 (Net 'GND') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board error (P-B) at (34.000 -31.500) on layer "[All]".
+    Error between Component Pad SAT5.1 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (53.500 -30.000) and (53.500 -27.500) on Layer "[All]".
+    Error between Component Pad SAT5.2 (Net 'GPA4') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board error (P-B) at (53.500 -33.000) on layer "[All]".
+    Error between Component Pad SAT5.2 (Net 'GPA4') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (33.500 -53.500) on layer "[All]".
+    Error between Component Pad SAT5.3 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (53.000 -53.500) on layer "[All]".
+    Error between Component Pad SAT5.4 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (60.000 -5.500) on layer "[All]".
+    Error between Component Pad SAT6.1 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (79.500 -7.000) on layer "[All]".
+    Error between Component Pad SAT6.2 (Net 'GPA5') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (59.500 -27.500) on layer "[All]".
+    Error between Component Pad SAT6.3 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (59.500 -29.000) and (59.500 -31.500) on Layer "[All]".
+    Error between Component Pad SAT6.3 (Net 'GND') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board error (P-B) at (79.000 -27.500) on layer "[All]".
+    Error between Component Pad SAT6.4 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (79.500 -29.000) and (79.500 -31.500) on Layer "[All]".
+    Error between Component Pad SAT6.4 (Net 'GND') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board Error (P-B) between (60.000 -30.000) and (60.000 -27.500) on Layer "[All]".
+    Error between Component Pad SAT7.1 (Net 'GND') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board error (P-B) at (60.000 -31.500) on layer "[All]".
+    Error between Component Pad SAT7.1 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (79.500 -30.000) and (79.500 -27.500) on Layer "[All]".
+    Error between Component Pad SAT7.2 (Net 'GPA6') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board error (P-B) at (79.500 -33.000) on layer "[All]".
+    Error between Component Pad SAT7.2 (Net 'GPA6') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (59.500 -53.500) on layer "[All]".
+    Error between Component Pad SAT7.3 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (59.500 -55.000) and (59.500 -57.500) on Layer "[All]".
+    Error between Component Pad SAT7.3 (Net 'GND') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board error (P-B) at (79.000 -53.500) on layer "[All]".
+    Error between Component Pad SAT7.4 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (79.500 -55.000) and (79.500 -57.500) on Layer "[All]".
+    Error between Component Pad SAT7.4 (Net 'GND') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board Error (P-B) between (60.000 -56.000) and (60.000 -53.500) on Layer "[All]".
+    Error between Component Pad SAT8.1 (Net 'GND') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board error (P-B) at (60.000 -57.500) on layer "[All]".
+    Error between Component Pad SAT8.1 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (79.500 -56.000) and (79.500 -53.500) on Layer "[All]".
+    Error between Component Pad SAT8.2 (Net 'GPA7') and Board, Gap is 2.437 needs to be 2.540.
+Pad to Board error (P-B) at (79.500 -59.000) on layer "[All]".
+    Error between Component Pad SAT8.2 (Net 'GPA7') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (59.500 -79.500) on layer "[All]".
+    Error between Component Pad SAT8.3 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board error (P-B) at (79.000 -79.500) on layer "[All]".
+    Error between Component Pad SAT8.4 (Net 'GND') and Board, Gap is 0.000 needs to be 2.540.
+Pad to Board Error (P-B) between (80.700 -63.025) and (79.500 -63.025) on Layer "[All]".
+    Error between Component Pad R4.1 (Net 'GND') and Board, Gap is 1.137 needs to be 2.540.
+Pad to Board Error (P-B) between (80.700 -61.375) and (79.500 -61.375) on Layer "[All]".
+    Error between Component Pad R4.2 (Net 'GPA7') and Board, Gap is 1.137 needs to be 2.540.
+Pad to Board Error (P-B) between (80.700 -37.025) and (79.500 -37.025) on Layer "[All]".
+    Error between Component Pad R5.1 (Net 'GND') and Board, Gap is 1.137 needs to be 2.540.
+Pad to Board Error (P-B) between (80.700 -35.375) and (79.500 -35.375) on Layer "[All]".
+    Error between Component Pad R5.2 (Net 'GPA6') and Board, Gap is 1.137 needs to be 2.540.
+Pad to Board Error (P-B) between (80.700 -11.025) and (79.500 -11.025) on Layer "[All]".
+    Error between Component Pad R6.1 (Net 'GND') and Board, Gap is 1.137 needs to be 2.540.
+Pad to Board Error (P-B) between (80.700 -9.375) and (79.500 -9.375) on Layer "[All]".
+    Error between Component Pad R6.2 (Net 'GPA5') and Board, Gap is 1.137 needs to be 2.540.
+Pad to Board Error (P-B) between (54.700 -11.025) and (53.500 -11.025) on Layer "[All]".
+    Error between Component Pad R7.1 (Net 'GND') and Board, Gap is 1.137 needs to be 2.540.
+Pad to Board Error (P-B) between (54.700 -9.375) and (53.500 -9.375) on Layer "[All]".
+    Error between Component Pad R7.2 (Net 'GPA3') and Board, Gap is 1.137 needs to be 2.540.
+Pad to Board Error (P-B) between (28.200 -61.525) and (27.500 -61.525) on Layer "[All]".
+    Error between Component Pad R8.1 (Net 'GND') and Board, Gap is 0.636 needs to be 2.540.
+Pad to Board Error (P-B) between (28.200 -59.875) and (27.500 -59.875) on Layer "[All]".
+    Error between Component Pad R8.2 (Net 'GPA2') and Board, Gap is 0.636 needs to be 2.540.
+Pad to Board Error (P-B) between (54.700 -37.025) and (53.500 -37.025) on Layer "[All]".
+    Error between Component Pad R9.1 (Net 'GND') and Board, Gap is 1.137 needs to be 2.540.
+Pad to Board Error (P-B) between (54.700 -35.375) and (53.500 -35.375) on Layer "[All]".
+    Error between Component Pad R9.2 (Net 'GPA4') and Board, Gap is 1.137 needs to be 2.540.
+Pad to Board Error (P-B) between (28.450 -37.025) and (27.500 -37.025) on Layer "[All]".
+    Error between Component Pad R10.1 (Net 'GND') and Board, Gap is 0.886 needs to be 2.540.
+Pad to Board Error (P-B) between (28.450 -35.375) and (27.500 -35.375) on Layer "[All]".
+    Error between Component Pad R10.2 (Net 'GPA1') and Board, Gap is 0.886 needs to be 2.540.
+Pad to Board Error (P-B) between (28.700 -11.025) and (27.500 -11.025) on Layer "[All]".
+    Error between Component Pad R11.1 (Net 'GND') and Board, Gap is 1.137 needs to be 2.540.
+Pad to Board Error (P-B) between (28.700 -9.375) and (27.500 -9.375) on Layer "[All]".
+    Error between Component Pad R11.2 (Net 'GPA0') and Board, Gap is 1.137 needs to be 2.540.
+Via to Board Error (V-B) between (81.000 -33.500) and (79.500 -33.500) on Layer "[All]".
+    Error between Via (Net 'GPA6') and Board, Gap is 1.437 needs to be 2.540.
+
+Number of errors found : 100
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.

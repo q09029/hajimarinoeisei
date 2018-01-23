@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Tuesday, January 02, 2018
+Project Path:       C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board.prj
+Design Path:        C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board.pcb
+Design Title:       
+Created:            2018/01/02 14:22:47
+Last Saved:         2018/01/02 14:42:14
+Editing Time:       21 min
+Units:              mm (precision 3)
+
+
+Checking integrity of Schematic and Pcb designs in project "hajimarino_base_board"
+==================================================================================
+
+
+End Of Report.

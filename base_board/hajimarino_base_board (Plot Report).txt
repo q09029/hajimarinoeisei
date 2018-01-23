@@ -1,0 +1,178 @@
+Plot Report
+-----------
+
+Report Written:     Tuesday, January 02, 2018
+Project Path:       C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board.prj
+Design Path:        C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board.pcb
+Design Title:       
+Created:            2018/01/02 14:22:47
+Last Saved:         2018/01/02 16:33:31
+Editing Time:       105 min
+Units:              mm (precision 3)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in inches.
+    No zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D74    Round 5.00
+    D75    Round 7.87
+    D76    Round 3.94
+    D104   Round 1.00
+
+Gerber Output
+=============
+
+C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D11    Round 10.00
+    D21    Round 19.69
+    D74    Round 5.00
+    D75    Round 7.87
+    D80    Round 86.61
+    D86    Rectangle 37.40 X 43.31  Rotation 90
+    D88    Rectangle 37.40 X 43.31
+    D105   Rectangle 19.69 X 79.13
+    D106   Rectangle 118.11 X 118.11
+
+Gerber Output
+=============
+
+C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D23    Round 84.74
+    D94    Round 92.61
+    D100   Rectangle 43.40 X 49.31  Rotation 90
+    D102   Rectangle 43.40 X 49.31
+    D111   Rectangle 25.69 X 85.13
+    D112   Rectangle 124.11 X 124.11
+
+Gerber Output
+=============
+
+C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D11    Round 10.00
+    D21    Round 19.69
+    D74    Round 5.00
+    D75    Round 7.87
+    D80    Round 86.61
+    D86    Rectangle 37.40 X 43.31  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D74    Round 5.00
+
+Gerber Output
+=============
+
+C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D23    Round 84.74
+    D94    Round 92.61
+    D100   Rectangle 43.40 X 49.31  Rotation 90
+
+NC Drill Output
+===============
+
+C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board - Drill Data - [Through Hole].drl
+
+    Output:
+    -----------------------------
+    Plated Round Drill Holes
+    Unplated Round Drill Holes
+    Plated Slots
+    Unplated Slots
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.01181 in 59    X
+    T002  000.03937 in 10    F
+    T003  000.07874 in 4     Q
+    ------------------------------------
+    Total              73
+    ------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board - outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D74    Round 5.00
+
+End Of Report.

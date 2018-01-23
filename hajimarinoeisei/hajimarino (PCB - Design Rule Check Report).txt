@@ -1,0 +1,287 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Tuesday, January 02, 2018
+Project Path:       C:\Users\q09029\Desktop\2017\hajimarino\hajimarino.prj
+Design Path:        C:\Users\q09029\Desktop\2017\hajimarino\hajimarino.pcb
+Design Title:       
+Created:            2018/01/01 17:53:24
+Last Saved:         2018/01/02 1:41:03
+Editing Time:       463 min
+Units:              mm (precision 3)
+
+
+Results
+=======
+
+Pad to Board Error (P-B) between (20.500 -25.250) and (20.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP1.1 (Net '+5V') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (20.500 -25.250) and (20.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP1.1 (Net '+5V') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (20.500 -24.750) and (20.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP1.2 (Net 'Vin') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (20.500 -24.750) and (20.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP1.2 (Net 'Vin') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (21.500 -25.250) and (21.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP3.1 (Net '+5V') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (21.500 -25.250) and (21.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP3.1 (Net '+5V') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (21.500 -24.750) and (21.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP3.2 (Net 'SHDN') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (21.500 -24.750) and (21.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP3.2 (Net 'SHDN') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (10.500 -25.250) and (10.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP6.1 (Net 'MB_3.3V') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (10.500 -25.250) and (10.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP6.1 (Net 'MB_3.3V') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (10.500 -24.750) and (10.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP6.2 (Net '+3.3V') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (10.500 -24.750) and (10.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP6.2 (Net '+3.3V') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (8.000 -25.250) and (8.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP7.1 (Net 'MB_EN') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (8.000 -25.250) and (8.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP7.1 (Net 'MB_EN') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (8.000 -24.750) and (8.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP7.2 (Net 'EN') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (8.000 -24.750) and (8.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP7.2 (Net 'EN') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (9.000 -25.250) and (9.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP8.1 (Net 'MB_IO14') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (9.000 -25.250) and (9.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP8.1 (Net 'MB_IO14') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (9.000 -24.750) and (9.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP8.2 (Net 'IO14') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (9.000 -24.750) and (9.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP8.2 (Net 'IO14') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (6.500 -25.250) and (6.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP9.1 (Net 'MB_IO12') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (6.500 -25.250) and (6.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP9.1 (Net 'MB_IO12') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (6.500 -24.750) and (6.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP9.2 (Net 'IO12') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (6.500 -24.750) and (6.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP9.2 (Net 'IO12') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (7.500 -25.250) and (7.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP10.1 (Net 'MB_IO13') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (7.500 -25.250) and (7.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP10.1 (Net 'MB_IO13') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (7.500 -24.750) and (7.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP10.2 (Net 'IO13') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (7.500 -24.750) and (7.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP10.2 (Net 'IO13') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (5.000 -25.250) and (5.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP11.1 (Net 'MB_IO15') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (5.000 -25.250) and (5.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP11.1 (Net 'MB_IO15') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (5.000 -24.750) and (5.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP11.2 (Net 'IO15') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (5.000 -24.750) and (5.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP11.2 (Net 'IO15') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (6.000 -25.250) and (6.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP12.1 (Net 'MB_IO2') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (6.000 -25.250) and (6.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP12.1 (Net 'MB_IO2') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (6.000 -24.750) and (6.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP12.2 (Net 'IO2') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (6.000 -24.750) and (6.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP12.2 (Net 'IO2') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (3.500 -25.250) and (3.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP13.1 (Net 'MB_IO0') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (3.500 -25.250) and (3.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP13.1 (Net 'MB_IO0') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (3.500 -24.750) and (3.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP13.2 (Net 'IO0') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (3.500 -24.750) and (3.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP13.2 (Net 'IO0') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (4.500 -25.250) and (4.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP14.1 (Net 'MB_GND') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (4.500 -25.250) and (4.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP14.1 (Net 'MB_GND') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (4.500 -24.750) and (4.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP14.2 (Net 'GND') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (4.500 -24.750) and (4.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP14.2 (Net 'GND') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (14.500 -24.750) and (14.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP15.1 (Net 'IO16') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (14.500 -24.750) and (14.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP15.1 (Net 'IO16') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (14.500 -25.250) and (14.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP15.2 (Net 'MB_IO16') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (14.500 -25.250) and (14.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP15.2 (Net 'MB_IO16') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (17.000 -24.750) and (17.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP16.1 (Net 'TOUT') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (17.000 -24.750) and (17.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP16.1 (Net 'TOUT') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (17.000 -25.250) and (17.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP16.2 (Net 'MB_TOUT') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (17.000 -25.250) and (17.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP16.2 (Net 'MB_TOUT') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (16.000 -24.750) and (16.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP17.1 (Net 'RST') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (16.000 -24.750) and (16.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP17.1 (Net 'RST') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (16.000 -25.250) and (16.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP17.2 (Net 'MB_RST') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (16.000 -25.250) and (16.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP17.2 (Net 'MB_RST') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (18.500 -24.750) and (18.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP18.1 (Net 'IO5') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (18.500 -24.750) and (18.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP18.1 (Net 'IO5') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (18.500 -25.250) and (18.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP18.2 (Net 'MB_IO5') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (18.500 -25.250) and (18.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP18.2 (Net 'MB_IO5') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (17.500 -24.750) and (17.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP19.1 (Net 'TX') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (17.500 -24.750) and (17.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP19.1 (Net 'TX') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (17.500 -25.250) and (17.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP19.2 (Net 'MB_TXD') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (17.500 -25.250) and (17.500 -25.000) on Layer "[All]".
+    Error between Component Pad JP19.2 (Net 'MB_TXD') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (20.000 -24.750) and (20.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP20.1 (Net 'RX') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (20.000 -24.750) and (20.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP20.1 (Net 'RX') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (20.000 -25.250) and (20.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP20.2 (Net 'MB_RXD') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (20.000 -25.250) and (20.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP20.2 (Net 'MB_RXD') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (19.000 -24.750) and (19.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP21.1 (Net 'IO4') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (19.000 -24.750) and (19.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP21.1 (Net 'IO4') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (19.000 -25.250) and (19.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP21.2 (Net 'MB_IO4') and Board, Gap is 0.098 needs to be 0.254.
+Pad to Board Error (P-B) between (19.000 -25.250) and (19.000 -25.000) on Layer "[All]".
+    Error between Component Pad JP21.2 (Net 'MB_IO4') and Board, Gap is 0.098 needs to be 0.254.
+Board to Board error (B-B) at (25.000 -25.000) on layer "[All]".
+    Error between Board and Board, Gap is 0.000.
+Component to Component error (Cm-Cm) at (18.620 -47.880) on layer "[Top]".
+    CN1 - CN2, Gap is 0.000.
+Component to Board error (Cm-B) at (4.000 -26.000) on layer "[Top]".
+    JP14.
+Component to Board error (Cm-B) at (5.500 -26.000) on layer "[Top]".
+    JP12.
+Component to Board error (Cm-B) at (16.500 -24.000) on layer "[Top]".
+    JP17.
+Component to Board error (Cm-B) at (10.000 -26.000) on layer "[Top]".
+    JP6.
+Component to Board error (Cm-B) at (8.500 -26.000) on layer "[Top]".
+    JP8.
+Component to Board error (Cm-B) at (19.500 -24.000) on layer "[Top]".
+    JP21.
+Component to Board error (Cm-B) at (7.000 -26.000) on layer "[Top]".
+    JP10.
+Component to Board error (Cm-B) at (18.000 -24.000) on layer "[Top]".
+    JP19.
+Component to Board error (Cm-B) at (15.000 -24.000) on layer "[Top]".
+    JP15.
+Component to Board error (Cm-B) at (21.000 -26.000) on layer "[Top]".
+    JP3.
+Component to Board error (Cm-B) at (21.000 -26.000) on layer "[Bottom]".
+    JP1.
+Component to Component error (Cm-Cm) at (18.120 -47.880) on layer "[Bottom]".
+    CN1 - CN2, Gap is 0.000.
+Component to Board error (Cm-B) at (8.500 -26.000) on layer "[Bottom]".
+    JP7.
+Component to Board error (Cm-B) at (4.000 -26.000) on layer "[Bottom]".
+    JP13.
+Component to Board error (Cm-B) at (7.000 -26.000) on layer "[Bottom]".
+    JP9.
+Component to Board error (Cm-B) at (5.500 -26.000) on layer "[Bottom]".
+    JP11.
+Component to Board error (Cm-B) at (18.000 -24.000) on layer "[Bottom]".
+    JP18.
+Component to Board error (Cm-B) at (19.500 -24.000) on layer "[Bottom]".
+    JP20.
+Component to Board error (Cm-B) at (16.500 -24.000) on layer "[Bottom]".
+    JP16.
+Gap in Net "GND" between (21.848,-14.405) and (21.002,-4.237) 
+    GND.
+Gap in Net "GND" between (14.048,-24.441) and (16.602,-8.452) 
+    GND.
+Gap in Net "GND" between (17.902,-9.245) and (18.552,-16.457) 
+    GND.
+Gap in Net "GND" between (17.902,-9.245) and (20.052,-19.457) 
+    GND.
+Gap in Net "GND" between (14.048,-24.441) and (15.548,-24.441) 
+    GND.
+Gap in Net "GND" between (14.048,-24.441) and (9.314,-22.302) 
+    GND.
+Gap in Net "GND" between (0.559,-2.906) and (6.052,-18.602) 
+    GND.
+Gap in Net "GND" between (14.048,-24.441) and (7.752,-19.902) 
+    GND.
+Gap in Net "MB_GND" between (11.311,-49.441) and (5.451,-37.172) 
+    MB_GND.
+Gap in Net "MB_GND" between (5.451,-37.172) and (5.498,-39.569) 
+    MB_GND.
+Gap in Net "MB_GND" between (5.451,-37.172) and (15.192,-36.177) 
+    MB_GND.
+Gap in Net "MB_GND" between (21.952,-25.559) and (24.229,-25.559) 
+    MB_GND.
+Gap in Net "MB_GND" between (16.402,-40.746) and (18.156,-31.799) 
+    MB_GND.
+Gap in Net "MB_GND" between (18.156,-31.799) and (19.852,-30.834) 
+    MB_GND.
+Gap in Net "MB_GND" between (19.852,-30.834) and (18.552,-27.202) 
+    MB_GND.
+Gap in Net "MB_GND" between (5.451,-37.172) and (4.893,-32.810) 
+    MB_GND.
+Gap in Net "MB_GND" between (11.311,-49.441) and (7.552,-27.202) 
+    MB_GND.
+Gap in Net "MB_GND" between (7.552,-27.202) and (7.552,-27.202) 
+    MB_GND.
+Dangling Track from (3.500,-18.905) to (3.500,-18.900) on layer Top Copper
+
+Number of errors found : 112
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.

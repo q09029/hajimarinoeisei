@@ -1,0 +1,15 @@
+Pour Copper Report
+------------------
+
+Report Written:     Tuesday, January 02, 2018
+Project Path:       C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board.prj
+Design Path:        C:\Users\q09029\Desktop\2017\hajimarino\base_board\hajimarino_base_board.pcb
+Design Title:       
+Created:            2018/01/02 14:22:47
+Last Saved:         2018/01/02 16:32:02
+Editing Time:       104 min
+Units:              mm (precision 3)
+
+R5.1 at 80.250,-37.500 has no thermal spokes
+
+End Of Report.

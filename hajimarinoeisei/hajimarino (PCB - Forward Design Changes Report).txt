@@ -1,0 +1,28 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Tuesday, January 02, 2018
+Project Path:       C:\Users\q09029\Desktop\2017\hajimarino\hajimarino.prj
+Design Path:        C:\Users\q09029\Desktop\2017\hajimarino\hajimarino.pcb
+Design Title:       
+Created:            2018/01/01 17:53:24
+Last Saved:         2018/01/02 1:02:51
+Editing Time:       429 min
+Units:              mm (precision 3)
+
+Net "+5V" changed from net class "Signal" to net class "Power".
+
+Net N0052 renamed to EN
+Net N0035 renamed to IO14
+Net N0036 renamed to IO12
+Net N0037 renamed to IO13
+Net N0038 renamed to IO15
+Net N0039 renamed to IO2
+Net N0040 renamed to IO0
+Net N0048 renamed to IO16
+Net N0049 renamed to TOUT
+Net N0050 renamed to IO5
+Net N0051 renamed to IO4
+
+
+End Of Report.
